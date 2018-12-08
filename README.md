@@ -1,4 +1,4 @@
-# JSR223 Test
+# Java JSR223 Demo
 
 I wanted to better understand how the JSR-223 scripting interface worked with
 some of the more popular JVM languages. This repository contains a very simple
